@@ -12,7 +12,7 @@
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
 
      <!-- Title Block -->
-    <title><!--Title--></title>
+    <title>Select Student Data</title>
 </head>
 <body>
     <div class="container d-flex justify-content-center align-items-center vh-100">
