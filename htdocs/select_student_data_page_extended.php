@@ -21,7 +21,7 @@
                 <a href="dashboard.php"><img src="../static/images/logo_unisaonline.png" alt="Logo" class="mb-3" width="220"></a>
             </div>
             <div class="card-body text-center">
-                <?php include '../php/select_student_data.php';?>
+                <?php include 'php/select_student_data.php';?>
             </div>
 
         </div>
